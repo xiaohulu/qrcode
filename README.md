@@ -5,8 +5,8 @@
 
 1. 客户端
     1. [TypeScript](http://www.typescriptlang.org/)
-    2. [react](https://reactjs.org/)
-    3. [ant.design](https://ant.design/)
+    2. [React](https://reactjs.org/)
+    3. [Ant.design](https://ant.design/)
 2. 服务器端
     1. [Spring boot](https://spring.io/projects/spring-boot)
     2. [Spring MVC](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
@@ -16,14 +16,12 @@
     1. [Postgresql](https://www.postgresql.org/)
     2. [Liquebase](http://www.liquibase.org/)
 4. 部署环境
-    1. [apache](http://httpd.apache.org/)
-    2. [tomcat](http://tomcat.apache.org/)
+    1. [Apache](http://httpd.apache.org/)
+    2. [Tomcat](http://tomcat.apache.org/)
 
 ## 部署环境
 
-应用程序和数据库部署在一台阿里云 ECS 服务器上。
-
-域名为 https://doufuding.com 。
+应用程序和数据库部署在一台阿里云 ECS 服务器上。域名为 https://doufuding.com 。
 
 ## 知识点整理
 
