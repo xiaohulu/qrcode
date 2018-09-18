@@ -21,7 +21,7 @@
 
 ## 部署环境
 
-应用程序和数据库部署在一台阿里云 ECS 服务器上。域名为 https://doufuding.com 。
+应用程序和数据库部署在一台阿里云 ECS 服务器上。域名为 https://myqrcode.cn 。
 
 ## 知识点整理
 
