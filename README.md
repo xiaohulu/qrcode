@@ -1,4 +1,5 @@
 # qrcode
+
 一个管理并分享个人二维码的网站。
 
 ## 开发技术
@@ -16,7 +17,7 @@
     1. [Postgresql](https://www.postgresql.org/)
     2. [Liquebase](http://www.liquibase.org/)
 4. 部署环境
-    1. [Apache](http://httpd.apache.org/)
+    1. [Apache HTTP Server](http://httpd.apache.org/)
     2. [Tomcat](http://tomcat.apache.org/)
 
 ## 部署环境
