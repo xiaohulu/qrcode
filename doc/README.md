@@ -10,3 +10,4 @@
 
 * [简介](./script/001-intro.md)
 * [金字塔思维](./script/002-pyramid-logic.md)
+* [愿景](./script/003-vision.md)
