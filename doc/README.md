@@ -11,3 +11,5 @@
 * [金字塔思维](./script/002-pyramid-logic.md)
 * [愿景](./script/003-vision.md)
 * [用例](./script/004-use-case.md)
+* [架构](./script/005-architecture.md)
+* [新建项目](./script/006-init-project.md)

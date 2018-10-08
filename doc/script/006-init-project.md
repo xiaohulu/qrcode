@@ -33,22 +33,21 @@
 最后、在 Spring Boot 配置文件中添加数据源
 ```
 
+集成 liquebase
 
-
+```
+liquebase 用于跟踪数据库变化
+一、确认已导入 liquebase 依赖
+二、创建 liquebase 配置文件
+三、在项目配置文件中配置 liquebase
+项目运行后
+变化的数据库结构和数据
+会同步到数据库上
+```
 
 1. 数据库
 2. liquebase
 3. 项目结构
-
-```
-liquebase 用于跟踪数据库变化，
-一、确认已导入 liquebase 依赖
-二、创建 liquebase 配置文件
-三、在 Spring boot 配置文件中添加 liquebase 配置文件路径
-启动项目后
-变化的数据库结构或数据会同步到数据库上
-```
-
 
 一张片子描述数据库对象
 1. 用户，访问和管理
@@ -104,3 +103,7 @@ Spring boot 项目结构
 ## 感悟
 
 一门编程语言要具备两大功能，一是组织数据，一是组织代码。
+
+## 参考资料
+
+1. http://www.css88.com/doc/typescript/doc/handbook/tutorials/React.html
