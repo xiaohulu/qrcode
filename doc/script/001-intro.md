@@ -17,7 +17,7 @@ Spring_boot
 Hibernate
 数据库使用 
 PostgreSQL
-Liquebase
+Liquibase
 服务器使用
 Apache_HTTP_Server
 Tomcat
