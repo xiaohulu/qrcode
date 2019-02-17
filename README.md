@@ -24,7 +24,20 @@
 
 ## 部署环境
 
-应用程序和数据库部署在一台阿里云 ECS 服务器上。域名为 https://myqrcode.cn 。
+应用程序和数据库部署在一台阿里云 ECS 服务器上。域名为 <http://myqrcode.cn> 。
+
+### 安装
+
+```sh
+# 获取占用 8080 端口的进程
+netstat -apn | grep 80
+
+# 杀掉进程
+kill -9 pid
+
+# 后台启动
+nohup java -jar myqrcode-0.0.1-SNAPSHOT.jar &
+```
 
 ## 知识点整理
 
